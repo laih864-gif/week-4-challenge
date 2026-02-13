@@ -1,0 +1,67 @@
+html {
+  background-color: #f2f2f2;
+  margin: 3.5rem 10rem;
+}
+
+h1 {
+  font-family: "Arial Black", Impact, sans-serif;
+  font-size: 3.4rem;
+  text-align: center;
+  letter-spacing: 0.14em;
+  line-height: 1.05;
+  color: #000000;
+}
+
+h1 + p {
+  text-align: right;
+  font-style: italic;
+  margin: 1.2rem 6rem 4rem 6rem;
+  color: #4b2e1f;
+}
+
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2rem;
+  text-align: center;
+  margin-top: 4rem;
+  letter-spacing: 0.06em;
+  color: #4b2e1f;
+}
+
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.5rem;
+  text-align: center;
+  margin-top: 2rem;
+  letter-spacing: 0.05em;
+  color: #4b2e1f;
+}
+
+p {
+  font-size: 1.05rem;
+  line-height: 1.85;
+  word-spacing: 0.08em;
+  text-indent: 0;
+  margin: 1.9rem 6rem;
+}
+
+ol {
+  margin: 2rem 7rem;
+}
+
+li {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 0.75rem;
+}
+
+strong {
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+a {
+  color: #0055aa;
+}
